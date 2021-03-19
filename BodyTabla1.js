@@ -4,22 +4,24 @@ const BodyTabla1 = () => {
   return (
     <tbody>
       <tr>
-        <td>27 de abril</td>
+      <td>2</td>
+        <td>17 de abril</td>
         <ul></ul>
-        <td>26 de mayo</td>
+        <td>17 de mayo</td>
         <ul></ul>
-        <td>30 de abril, 7, 14, 26 de mayo</td>
+        <td>23, 30 de abril, 7, 17 de mayo</td>
         <ul></ul>
         <td>
-            <li>Definir protocolos de seguridad</li>
-            <li>Determinar condiciones de contraseñas</li>
-            <li>Llaves de seguridad y encriptado</li>
-            <li>Definir nivel de seguridad</li>
-            <li>Desarrollar opción de configuración de parámetros</li>
-            <li>Configurar parámetros en el sistema</li>
-            <li>Desarrollo de formulario para registro de usuario</li>
-            <li>Desarrollo de formulario para cambio de contraseña</li>
-            <li>Ingresar parámetros al sistema</li>
+        <li>Definir layout reportes</li>
+        <li>Definir opciones de visualización de reportes</li>
+        <li>Definir herramienta para almacenar la información</li>
+        <li>Diseño de formatos descargables</li>
+        <li>Enlistar ítems de consulta</li>
+        <li>Definir arquitectura</li>
+        <li>Configuración responsive multiplataforma</li>
+        <li>Creación de la lógica de programación</li>
+
+
 
 
 </td>

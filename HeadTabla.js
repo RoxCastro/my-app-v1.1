@@ -5,14 +5,15 @@ const HeadTabla = () => {
   return (
     <thead>
       <tr>
-      <th> Fecha de inicio   </th>
+        <th> Sprint   </th>
+        <th> Fecha de inicio   </th>
         <ul></ul>
         <th> Fecha de fin   </th>
         <ul></ul>
         <th> Fechas de revisión </th>
         <ul></ul>
         <th>Tareas a realizar </th> 
-      <ul></ul>
+        <ul></ul>
       </tr>
     </thead>
   );
